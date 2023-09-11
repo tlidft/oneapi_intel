@@ -42,7 +42,7 @@ device = torch.device("xpu")
 ```
 
 ## 运行
-
+解压cslstm.zip
 运行python文件即可。
 ```shell
 python train.py
